@@ -10,7 +10,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F8A70,100:0AC9C9&height=200&section=header&text=Mycharla%20Manojkumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20Java%20%7C%20Spring%20Boot&descAlignY=58&descSize=18" />
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=1F8A70&center=true&vCenter=true&width=750&lines=Aspiring+Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+RESTful+APIs;Building+CRUD+Applications;SQL+%7C+PostgreSQL+%7C+MySQL;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=1F8A70&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer+and+IT+Student" alt="Typing SVG" />
 
 <br/>
 
@@ -18,7 +18,7 @@
 <a href="mailto:mycharlamanojkumarmk143@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://mycharla-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=manojkumar-devep&label=Profile%20Views&color=1f8a70&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=1f8a70&style=flat-square"/>
 
 </div>
 
