@@ -7,10 +7,10 @@
 <div align="center">
 
 <!-- Wave banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F8A70,100:0AC9C9&height=200&section=header&text=Mycharla%20Manojkumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Backend%20Software%20Engineer%20%7C%20Java%20%7C%20Spring%20Boot&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F8A70,100:0AC9C9&height=200&section=header&text=Mycharla%20Manojkumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Developer%20%7C%20Java%20%7C%20Spring%20Boot&descAlignY=58&descSize=18" />
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=1F8A70&center=true&vCenter=true&width=750&lines=Aspiring+Backend+Software+Engineer;Java+%7C+Spring+Boot+%7C+RESTful+APIs;Building+CRUD+Applications;SQL+%7C+PostgreSQL+%7C+MySQL;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=1F8A70&center=true&vCenter=true&width=750&lines=Aspiring+Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+RESTful+APIs;Building+CRUD+Applications;SQL+%7C+PostgreSQL+%7C+MySQL;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 <br/>
 
@@ -23,7 +23,6 @@
 </div>
 
 <br/>
-
 ## 💫 About Me
 
 I'm an aspiring **JAVA DEVELOPER** with a strong foundation in **Java** and enterprise architecture. I enjoy designing **CRUD applications** and building scalable **RESTful APIs** using core HTTP protocols. I'm experienced with **SQL, PostgreSQL, and MySQL** for data management and validation, with a deep academic background in **Automata Theory and Compiler Design (ATCD)**, focused on algorithmic optimization.
