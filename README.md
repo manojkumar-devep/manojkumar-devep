@@ -1,5 +1,5 @@
 <!-- 
-  GitHub Profile README — Mycharla Manojkumar
+  GitHub Profile README  Mycharla Manojkumar
   Save this as README.md inside a repo named EXACTLY your GitHub username
   (a repo matching your username is what makes it appear on your profile page).
 -->
