@@ -1,5 +1,5 @@
 <!-- 
-  GitHub Profile README  Mycharla Manojkumar
+  GitHub Profile README — Mycharla Manojkumar
   Save this as README.md inside a repo named EXACTLY your GitHub username
   (a repo matching your username is what makes it appear on your profile page).
 -->
@@ -23,15 +23,16 @@
 </div>
 
 <br/>
+
 ## 💫 About Me
 
-I'm an aspiring **JAVA DEVELOPER** with a strong foundation in **Java** and enterprise architecture. I enjoy designing **CRUD applications** and building scalable **RESTful APIs** using core HTTP protocols. I'm experienced with **SQL, PostgreSQL, and MySQL** for data management and validation, with a deep academic background in **Automata Theory and Compiler Design (ATCD)**, focused on algorithmic optimization.
+I'm an aspiring **Java Full Stack Developer** and **IT Student** with a strong foundation in **Java** and enterprise architecture. I enjoy designing **CRUD applications** and building scalable **RESTful APIs** using core HTTP protocols. I'm experienced with **SQL, PostgreSQL, and MySQL** for data management and validation, with a deep academic background in **Automata Theory and Compiler Design (ATCD)**, focused on algorithmic optimization.
 
 - 🎓 Pursuing **B.Tech in Information Technology** at Godavari Institute of Engineering & Technology (Autonomous)
 - 💻 Building a strong foundation in **Advanced Java**, enterprise architecture, and database management
 - 🧩 Designing **CRUD applications**, **RESTful APIs**, and exploring **Microservices**
 - 📚 Deep dive into **Automata Theory & Compiler Design (ATCD)** for analytical problem-solving
-- 🎯 Actively learning backend development to become job-ready as a **Java Backend / Full Stack Developer**
+- 🎯 Actively learning full stack development to become job-ready as a **Java Full Stack Developer**
 - 📍 Based in Payakaraopeta, Anakapalli, Andhra Pradesh, India
 
 ---
@@ -135,7 +136,7 @@ English &nbsp;•&nbsp; Telugu &nbsp;•&nbsp; Hindi
 
 ## 🎯 Goals
 
-- 🚀 Land a Backend / Java Full Stack internship
+- 🚀 Land a Java Full Stack Developer internship
 - 🌟 Ship more end-to-end CRUD and RESTful API projects
 - 📚 Deepen expertise in Spring Boot and microservices architecture
 - 🗄️ Master advanced SQL, PostgreSQL, and MySQL database design
