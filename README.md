@@ -24,7 +24,7 @@
 
 | 🚀 Project | 💻 Tech | 
 |:---|:---:|
-| [☕ Java CRUD Application](https://github.com/YOUR_GITHUB_USERNAME/your-repository) | `Java` `Spring Boot` `PostgreSQL` |
+| [☕ Java CRUD Application](https://github.com/manojkumar-devep/your-repository) | `Java` `Spring Boot` `PostgreSQL` |
 
 <br/>
 
@@ -40,28 +40,28 @@
 
 ### 📊 GitHub Stats & Graphs
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="185"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="185"/>
+<img src="https://github-readme-stats.vercel.app/api?username=manojkumar-devep&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="185"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojkumar-devep&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="185"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=1a1b27&ring=1F8A70&fire=FFD93D&currStreakLabel=6BCB77" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=manojkumar-devep&theme=tokyonight&hide_border=true&background=1a1b27&ring=1F8A70&fire=FFD93D&currStreakLabel=6BCB77" alt="GitHub Streak"/>
 
 <br/><br/>
 
 <!-- 📈 Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=1a1b27&color=4D96FF&line=1F8A70&point=FFD93D&area=true&area_color=6BCB77&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manojkumar-devep&bg_color=1a1b27&color=4D96FF&line=1F8A70&point=FFD93D&area=true&area_color=6BCB77&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" width="95%"/>
 
 <br/><br/>
 
 <!-- 🏆 Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&column=4&margin-w=8" alt="Trophies" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=manojkumar-devep&theme=tokyonight&no-frame=true&column=4&margin-w=8" alt="Trophies" width="95%"/>
 
 <br/><br/>
 
 ### 🐍 Watch the snake eat my contributions
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution snake"/>
+<img src="https://raw.githubusercontent.com/manojkumar-devep/manojkumar-devep/output/github-contribution-grid-snake.svg" alt="Contribution snake"/>
 
 <br/><br/>
 
