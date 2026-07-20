@@ -83,13 +83,13 @@ A CRUD application built with a focus on clean architecture and efficient data m
 - Integrated **PostgreSQL** for robust data storage and retrieval, ensuring data integrity
 
 **Tech:** Java • Spring Boot • PostgreSQL  
-🔗 [Repo](https://github.com/YOUR_GITHUB_USERNAME/your-repository) &nbsp;•&nbsp; 🌐 Live Demo
+🔗 [Repo](https://github.com/manojkumar-devep/your-repository) &nbsp;•&nbsp; 🌐 Live Demo
 
 </td>
 </tr>
 </table>
 
-> 💡 Replace `YOUR_GITHUB_USERNAME/your-repository` with the actual repo link once you push this project to GitHub, and add more project cards here as you build them.
+> 💡 Replace `manojkumar-devep/your-repository` with the actual repo link once you push this project to GitHub, and add more project cards here as you build them.
 
 ---
 
@@ -97,18 +97,18 @@ A CRUD application built with a focus on clean architecture and efficient data m
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=manojkumar-devep&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojkumar-devep&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manojkumar-devep&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manojkumar-devep&theme=tokyo-night&hide_border=true"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&column=4&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=manojkumar-devep&theme=tokyonight&no-frame=true&column=4&margin-w=8"/>
 
 </div>
 
-> 💡 Replace `YOUR_GITHUB_USERNAME` in every widget URL above with your real GitHub username to activate these stat cards.
+> 💡 Replace `manojkumar-devep` in every widget URL above with your real GitHub username to activate these stat cards.
 
 ---
 
