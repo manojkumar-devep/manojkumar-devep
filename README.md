@@ -37,8 +37,8 @@
 
 ### 📊 GitHub Stats & Graphs
 
-<img src="./manoj-stats.svg?v=1" alt="GitHub Stats" height="185"/>
-<img src="./manoj-langs.svg?v=1" alt="Top Languages" height="185"/>
+<img src="https://github-readme-stats.vercel.app/api?username=manojkumar-devep&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="185"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojkumar-devep&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="185"/>
 
 <br/><br/>
 
@@ -51,8 +51,8 @@
 
 <br/><br/>
 
-<!-- 🏆 Trophies (local animated SVG — always loads) -->
-<img src="./manoj-trophies.svg?v=1" alt="Trophies" width="95%"/>
+<!-- 🏆 Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=manojkumar-devep&theme=tokyonight&no-frame=true&column=4&margin-w=8" alt="Trophies" width="95%"/>
 
 <br/><br/>
 
