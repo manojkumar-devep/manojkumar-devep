@@ -18,7 +18,7 @@
 <a href="mailto:mycharlamanojkumarmk143@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://mycharla-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=1f8a70&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=manojkumar-devep&label=Profile%20Views&color=1f8a70&style=flat-square"/>
 
 </div>
 
