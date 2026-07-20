@@ -1,0 +1,88 @@
+<svg width="360" height="520" viewBox="0 0 360 520" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="strapGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF6BCB"/>
+      <stop offset="100%" stop-color="#B06BFF"/>
+    </linearGradient>
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a0b2e"/>
+      <stop offset="100%" stop-color="#2d1642"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="55%" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="ringGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="70%" stop-color="#B06BFF" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#B06BFF" stop-opacity="0.6"/>
+    </radialGradient>
+  </defs>
+
+  <!-- drop-in then damped swing: whole badge pivots around the top anchor -->
+  <g transform-origin="180 40">
+    <animateTransform attributeName="transform" type="rotate"
+      values="0 180 40; 0 180 40; -14 180 40; 10 180 40; -7 180 40; 4 180 40; -2 180 40; 1 180 40; 0 180 40; 0 180 40"
+      keyTimes="0; 0.05; 0.18; 0.32; 0.46; 0.58; 0.68; 0.78; 0.86; 1"
+      dur="12s" repeatCount="indefinite" calcMode="spline"
+      keySplines="0.3 0 0.7 1; 0.3 0 0.7 1; 0.3 0 0.7 1; 0.3 0 0.7 1; 0.3 0 0.7 1; 0.3 0 0.7 1; 0.3 0 0.7 1; 0.3 0 0.7 1; 0.3 0 0.7 1"/>
+
+    <!-- one-time drop-in from above -->
+    <animateTransform attributeName="transform" type="translate"
+      values="0,-260; 0,0" keyTimes="0;1" dur="1s" additive="sum" fill="freeze"
+      calcMode="spline" keySplines="0.2 0.8 0.3 1"/>
+
+    <!-- clasp / ring anchor -->
+    <circle cx="180" cy="26" r="10" fill="none" stroke="#c9c9c9" stroke-width="4"/>
+    <rect x="172" y="34" width="16" height="14" rx="4" fill="#8a8a8a"/>
+
+    <!-- strap -->
+    <path d="M170,40 L170,300 Q170,312 182,312 L198,312 Q210,312 210,300 L210,40 Z" fill="url(#strapGrad)"/>
+    <text x="180" y="150" font-family="Consolas, monospace" font-size="12" font-weight="700" fill="#ffffff" opacity="0.9"
+          text-anchor="middle" transform="rotate(90 180 150)">MYCHARLA · CODE · BUILD · MYCHARLA ·</text>
+
+    <!-- metal clip connecting strap to card -->
+    <rect x="165" y="298" width="30" height="20" rx="5" fill="#9a9a9a"/>
+    <circle cx="180" cy="322" r="9" fill="none" stroke="#9a9a9a" stroke-width="4"/>
+
+    <!-- ID card -->
+    <g transform="translate(40,330)">
+      <rect width="280" height="170" rx="16" fill="url(#cardGrad)" stroke="#B06BFF" stroke-opacity="0.5"/>
+
+      <text x="20" y="30" font-family="Consolas, monospace" font-size="11" fill="#8be9fd" letter-spacing="1">DEVELOPER ID</text>
+      <text x="260" y="30" font-family="Consolas, monospace" font-size="11" fill="#B06BFF" text-anchor="end">MM-2026</text>
+
+      <!-- avatar ring with initials (no photo supplied) -->
+      <circle cx="60" cy="90" r="34" fill="url(#ringGlow)"/>
+      <circle cx="60" cy="90" r="28" fill="#3a2450" stroke="#FF6BCB" stroke-width="2"/>
+      <text x="60" y="98" font-family="'Segoe UI', sans-serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle">MM</text>
+      <circle cx="60" cy="90" r="28" fill="none" stroke="#B06BFF" stroke-width="2" opacity="0.7">
+        <animate attributeName="r" values="28;33;28" dur="2.4s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.7;0;0.7" dur="2.4s" repeatCount="indefinite"/>
+      </circle>
+
+      <text x="108" y="80" font-family="'Segoe UI', sans-serif" font-size="17" font-weight="700" fill="#ffffff">Mycharla Manojkumar</text>
+      <text x="108" y="100" font-family="'Segoe UI', sans-serif" font-size="12" fill="#d9c7ff">Java Full Stack Developer</text>
+      <text x="108" y="118" font-family="Consolas, monospace" font-size="11" fill="#7ee787">@manojkumar-devep</text>
+
+      <!-- barcode -->
+      <g transform="translate(20,140)" fill="#e8e8e8">
+        <rect x="0" y="0" width="2" height="20"/><rect x="4" y="0" width="1" height="20"/>
+        <rect x="7" y="0" width="3" height="20"/><rect x="12" y="0" width="1" height="20"/>
+        <rect x="15" y="0" width="2" height="20"/><rect x="19" y="0" width="1" height="20"/>
+        <rect x="22" y="0" width="4" height="20"/><rect x="28" y="0" width="1" height="20"/>
+        <rect x="31" y="0" width="2" height="20"/><rect x="35" y="0" width="1" height="20"/>
+        <rect x="38" y="0" width="3" height="20"/><rect x="43" y="0" width="1" height="20"/>
+        <rect x="46" y="0" width="2" height="20"/><rect x="50" y="0" width="1" height="20"/>
+        <rect x="53" y="0" width="4" height="20"/><rect x="59" y="0" width="1" height="20"/>
+        <rect x="62" y="0" width="2" height="20"/><rect x="66" y="0" width="3" height="20"/>
+      </g>
+
+      <!-- holographic shine sweep -->
+      <rect x="-140" y="0" width="140" height="170" fill="url(#shine)" transform="skewX(-20)">
+        <animate attributeName="x" values="-140;320" dur="3.2s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+</svg>
